@@ -1,4 +1,6 @@
+---
 title: "Well..."
-date: YYYY-MM-DD
+date: 2020-12-04
+---
 
 Yes well....
